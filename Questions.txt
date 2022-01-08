@@ -1,12 +1,13 @@
-01. What is the percentage of Indians who go to bed late?53
-02. What percentage of total people in the world follow christianity?31
-03. What percentage of total people in the world follow Islam?24
-04. What percentage of total people in the world are secular or nonreligious or atheist?15 
-05. What percentage of total people in the world follow Hinduism?15
-06. What percentage of people are able to swim without any assistance at all?44
-07. What percentage of people are left-handed?10
-08. What percentage of people wear glasses worldwide?64
-09. What percentage of global active Instagram users were men between the ages of 18 and 24 years?17
+
+0.  What is the percentage of Indians who go to bed late?53
+2.  What percentage of total people in the world follow christianity?31
+3.  What percentage of total people in the world follow Islam?24
+4.  What percentage of total people in the world are secular or nonreligious or atheist?15 
+5.  What percentage of total people in the world follow Hinduism?15
+6.  What percentage of people are able to swim without any assistance at all?44
+7.  What percentage of people are left-handed?10
+8.  What percentage of people wear glasses worldwide?64
+9.  What percentage of global active Instagram users were men between the ages of 18 and 24 years?17
 10. What percentage of people are dog lovers?60
 11. What is the percentage of water on earth?71
 12. What is the percentage  land area of Jammu and Kashmir which is control by India?55

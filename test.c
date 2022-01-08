@@ -2,8 +2,8 @@
 #include<stdlib.h>
 
 int fetchQues(int id) {
-    char buffer[100] = "", line_text[100] = "", ansStr[3] = "";
-    int lineCount = 1;
+    char buffer[150] = "", line_text[100] = "", ansStr[3] = "";
+    unsigned int lineCount = 1;
 
     FILE *fptr;
     fptr = fopen("Questions.txt", "r");     //Open txt file in r mode
