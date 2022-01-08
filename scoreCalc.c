@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include <stdbool.h>
 #include<stdlib.h>
+
 int guess, QA, rou=0;//These are to be provided
 int n=5,walkAwayChoice;//n = number of player , p = player number
 
@@ -12,7 +13,7 @@ struct game{
 };
 void elimination()
 {
-	
+	printf("Empty for now");
 }
 void guessChecker()
 {
@@ -35,8 +36,7 @@ return ;
 int scoreCalculate()
 {
 	int points = 100 - (0.5 * abs(QA-guess));   
-	return points;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-}
+	return points;}
 
 int main()
 {
